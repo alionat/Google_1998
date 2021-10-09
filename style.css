@@ -1,0 +1,46 @@
+.center{
+    display: block;
+    margin:auto;
+}
+
+.firstbox{
+    text-align: center;
+    background-color: #EEEEEE;
+    margin: 0px 50px;
+}
+
+.secondbox{
+    float: left;
+    background-color:#7EE5DA;
+    margin: 2px 2px 0px 50px;
+    width: 300px;
+    text-align: center;
+    padding: 12px;
+    
+}
+    
+.thirdbox{
+    float:left;
+    background-color:#70CCC2;
+    margin: 2px 2px 0px 0px;
+    width: 140px;
+    text-align: center;
+    font-size: 12px;
+    padding: 9px;
+}
+
+.fourthbox{
+    background-color:#62B3AA ;
+    float: left;
+    margin: 2px 50px 0px 0px;
+    width: 422px;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 2px;
+}
+
+.submit{
+    margin-right: 10px;
+}
+
